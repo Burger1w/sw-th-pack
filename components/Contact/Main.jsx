@@ -3,21 +3,15 @@ import { UilTimes } from '@iconscout/react-unicons';
 export default function Main()  {
     const contacts = [
         {
-            icon: <i className="fab text-3xl fa-twitter" />,
-            title: '@swoth_',
-            href: 'https://twitter.com/swoth_',
-            desc: 'Twitter'
-        },
-        {
             icon: <i className="fas text-3xl fa-at" />,
-            title: 'me@swoth.xyz',
-            href: 'mailto:me@swoth.xyz',
+            title: 'info@swoth.tk',
+            href: 'mailto:batkady435@gmail.com',
             desc: 'E-Mail'
         },
         {
             icon: <i className="fab text-3xl fa-discord" />,
-            title: 'Swôth#9990',
-            href: 'https://discord.com/users/451444721089380373',
+            title: 'Swôth#9999',
+            href: 'https://discord.com/users/1005112531431469136',
             desc: 'Discord'
         }
     ];
