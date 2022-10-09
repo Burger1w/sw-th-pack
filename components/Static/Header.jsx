@@ -27,7 +27,7 @@ export default function Header() {
             <div className={"pb-10 w-full flex items-center justify-between"}>
                 <div className="flex items-center space-x-2">
                     <Link href="/">
-                        <a className="pr-1 text-white font-bold text-4xl">Swôth</a>
+                        <a className="pr-1 text-white font-bold text-4xl">kadybot</a>
                     </Link>
                     <a target="_blank" href="https://discord.com/users/1005112531431469136" className="flex items-center justify-center cursor-pointer social w-10 h-10 rounded-lg">
                         <i className="fab fa-discord" />
