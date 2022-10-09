@@ -6,7 +6,7 @@ export default function Projects() {
     return (
         <>
             <Head>
-                <title>Projects | Swôth</title>
+                <title>Projects | kadybot</title>
             </Head>
             <div className="w-full my-5">
                 <Hero />
