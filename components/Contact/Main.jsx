@@ -4,13 +4,13 @@ export default function Main()  {
     const contacts = [
         {
             icon: <i className="fas text-3xl fa-at" />,
-            title: 'info@swoth.tk',
+            title: 'info@kadybot.tk',
             href: 'mailto:batkady435@gmail.com',
             desc: 'E-Mail'
         },
         {
             icon: <i className="fab text-3xl fa-discord" />,
-            title: 'Swôth#9999',
+            title: 'kadybot#0002',
             href: 'https://discord.com/users/1005112531431469136',
             desc: 'Discord'
         }
